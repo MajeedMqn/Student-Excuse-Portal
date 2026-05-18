@@ -30,7 +30,7 @@ In development
 ## Project Screenshots
 
 ### Home Page
-![Home](اسم-الصورة-1.png)
+![Home](Home.png)
 
 ### Requests Page
 ![Requests](اسم-الصورة-2.png)
