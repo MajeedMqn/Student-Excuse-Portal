@@ -33,14 +33,14 @@ In development
 ![Home](Home.png)
 
 ### Requests Page
-![Requests](اسم-الصورة-2.png)
+![Requests](select request.png)
 
 ### Details Page
-![Details](اسم-الصورة-3.png)
+![Details](shairpoint.png)
 
 ### Power Automate Workflow
-![Flow](اسم-الصورة-4.png)
+![Flow](automate.png)
 
 ### SharePoint Storage
-![SharePoint](اسم-الصورة-5.png)
+![SharePoint](new request.png)
 
