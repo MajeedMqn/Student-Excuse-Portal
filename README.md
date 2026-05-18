@@ -42,5 +42,5 @@ In development
 ![Flow](automate.png)
 
 ### SharePoint Storage
-![SharePoint](new request.png)
+![SharePoint](shairpoint .png)
 
