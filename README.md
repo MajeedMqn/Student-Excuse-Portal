@@ -26,3 +26,21 @@ A student excuse management portal built using Microsoft Power Platform.
 
 ## Status
 In development
+
+## Project Screenshots
+
+### Home Page
+![Home](اسم-الصورة-1.png)
+
+### Requests Page
+![Requests](اسم-الصورة-2.png)
+
+### Details Page
+![Details](اسم-الصورة-3.png)
+
+### Power Automate Workflow
+![Flow](اسم-الصورة-4.png)
+
+### SharePoint Storage
+![SharePoint](اسم-الصورة-5.png)
+
